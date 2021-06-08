@@ -1,7 +1,7 @@
 **- 👋 Hi, I’m @iftiaj**
 - 👀 A undergrad Student.
 - 🌱 I love to learning new technologies and make use of them.
-- 💞️ I’m looking to collaborate every possible way i can.
+- 💞️ I’m looking to collaborate in every possible way i can.
 - 📫 Reach me iftiaz.piyal@gmail.com 
 
 <!---
