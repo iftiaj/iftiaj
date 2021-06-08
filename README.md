@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @iftiaj
-- 👀 I’m interested in opensource projects
-- 🌱 I’m currently learning java with database integration
-- 💞️ I’m looking to collaborate on small projects
+**- 👋 Hi, I’m @iftiaj**
+- 👀 A undergred Student.
+- 🌱 I love to learning new technologies and make use of them.
+- 💞️ I’m looking to collaborate every possible way i can.
 - 📫 Reach me iftiaz.piyal@gmail.com 
 
 <!---
