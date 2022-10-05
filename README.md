@@ -1,6 +1,8 @@
-![image](https://user-images.githubusercontent.com/83780426/194161510-1e8e4fb7-ea6e-4ee4-b022-c459c818fefa.png)
-<h1 align="center">Hi 👋, I'm Iftiaj but you can call me Ifty</h1>
-<h3 align="center">A versatile Full-stack developer</h3>
+![image (1)](https://user-images.githubusercontent.com/83780426/194161951-3791325c-40f3-4693-8913-ce0c4d93afaa.png)
+
+<!--  <h1 align="center">Hi 👋, I'm Iftiaj but you can call me Ifty</h1> -->
+
+<!-- <h3 align="center">A versatile Full-stack developer</h3> -->
 
 
 
