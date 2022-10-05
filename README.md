@@ -8,17 +8,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iftiaj&label=Profile%20views&color=0e75b6&style=flat" alt="iftiaj" /> </p>
 
-- 🔭 I’m currently working on **Sahil Group Website**
+- 🔭 I’m planning to working on a ** Self-branding website**
 
-- 🌱 I’m currently learning **Frameworks, React Native, Blockchain Technology,**
+- 🌱 I’m currently learning **Frameworks, React Native, Blockchain Technology and Data structures**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iftiaj?tab=repositories](https://github.com/iftiaj?tab=repositories)
 
-- 💬 Ask me about **Android, Web development, Java**
+- 💬 Ask me about **Android, Web development, Java and Python**
 
 - 📫 How to reach me **iftiaj.sep@gmail.com**
 
-- ⚡ Fun fact **Trust me I am not Funny**
+- ⚡ Fun fact **Trust me I am not Funny hehe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
