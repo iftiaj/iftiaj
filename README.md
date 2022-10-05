@@ -1,4 +1,4 @@
-[![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.jE7eL_dFoFo_d_iCgsgVBQHaDH%26pid%3DApi&f=1&ipt=f2ba308a5e141be77837986163469ca480c5b9a8c353f6155f698cb423e04609&ipo=images)]
+![image](https://user-images.githubusercontent.com/83780426/194161510-1e8e4fb7-ea6e-4ee4-b022-c459c818fefa.png)
 <h1 align="center">Hi 👋, I'm Iftiaj but you can call me Ifty</h1>
 <h3 align="center">A versatile Full-stack developer</h3>
 
