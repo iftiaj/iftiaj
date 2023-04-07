@@ -10,15 +10,13 @@
 
 - 🔭 I’m planning to working on a ** Self-branding website**
 
-- 🌱 I’m currently learning **Frameworks, React Native, Blockchain Technology and Data structures**
+- 🌱 I’m currently learning **EF core 6 Frameworks, Angular, Asp.net 6, Azure and Data structures**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iftiaj?tab=repositories](https://github.com/iftiaj?tab=repositories)
 
 - 💬 Ask me about **Android, Web development, Java and Python**
 
 - 📫 How to reach me **iftiaj.sep@gmail.com**
-
-- ⚡ Fun fact **Trust me I am not Funny hehe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
